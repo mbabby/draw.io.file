@@ -1,19 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T06:22:03.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GJahAIHm0Zsk2kfYoqzy" version="15.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-02T06:24:21.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wZ8fGu1RdWdQzoLh6jKV" version="15.3.7" type="github" pages="2">
   <diagram id="rGBcGQrgIOmhusSkpEhY" name="Page-1">
     <mxGraphModel dx="1318" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k5ek-Dyfz73bsxwR2uP5-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="k5ek-Dyfz73bsxwR2uP5-35" target="YFa-J6aYxNnvuS32T_DQ-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340.5" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SgIohU2XN3-afJKznuea-5" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;登录、下线&lt;br&gt;上报ping&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="k5ek-Dyfz73bsxwR2uP5-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.1438" y="2" relative="1" as="geometry">
-            <mxPoint x="-7" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="k5ek-Dyfz73bsxwR2uP5-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.579;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k5ek-Dyfz73bsxwR2uP5-25" target="k5ek-Dyfz73bsxwR2uP5-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400.0000000000002" y="550" as="sourcePoint" />
@@ -177,6 +167,22 @@
             <mxPoint x="-1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="C6_V7AmvbbiP25uf1EMG-1" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k5ek-Dyfz73bsxwR2uP5-35" target="YFa-J6aYxNnvuS32T_DQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="690" as="sourcePoint" />
+            <mxPoint x="180" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6_V7AmvbbiP25uf1EMG-2" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;登录、下线&lt;br&gt;上报ping&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="640" as="geometry">
+            <mxPoint x="1" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C6_V7AmvbbiP25uf1EMG-3" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;探测IDC ipList&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="685" as="geometry">
+            <mxPoint x="1" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -185,6 +191,12 @@
       <root>
         <mxCell id="Zp6BvYDC10Cf_odQc7yV-0" />
         <mxCell id="Zp6BvYDC10Cf_odQc7yV-1" parent="Zp6BvYDC10Cf_odQc7yV-0" />
+        <mxCell id="1OiYyYrqQoFwXktijt6X-0" value="IDCRecomSvr" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Zp6BvYDC10Cf_odQc7yV-1">
+          <mxGeometry x="340" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ574j1U2tbg6r-kMJlQ-0" value="zoneSvr" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="Zp6BvYDC10Cf_odQc7yV-1">
+          <mxGeometry x="60" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
