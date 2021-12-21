@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:20:13.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ftW4mGzAm2_RshaAfZiy" version="15.9.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:20:25.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NVIXCbAps11BmZS8Ncis" version="15.9.4" type="github" pages="8">
   <diagram id="rGBcGQrgIOmhusSkpEhY" name="总图">
     <mxGraphModel dx="1910" dy="2173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1888,7 +1888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q93zPRr2cVq1OUysqMCC" name="Page-7">
-    <mxGraphModel dx="2735" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kYtq8hqSCg1Zeu9AD9op-0" />
         <mxCell id="kYtq8hqSCg1Zeu9AD9op-1" parent="kYtq8hqSCg1Zeu9AD9op-0" />
@@ -1988,11 +1988,8 @@
         <mxCell id="yTS60BYQn6R3xWKC6g6s-14" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;取用户数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="kYtq8hqSCg1Zeu9AD9op-1">
           <mxGeometry x="1034.25" y="939.9999999999998" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yTS60BYQn6R3xWKC6g6s-15" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;" vertex="1" parent="kYtq8hqSCg1Zeu9AD9op-1">
-          <mxGeometry x="-40" y="630" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="yTS60BYQn6R3xWKC6g6s-16" value="&lt;b&gt;bucket处理流程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="kYtq8hqSCg1Zeu9AD9op-1">
-          <mxGeometry x="-90" y="655" width="120" height="20" as="geometry" />
+          <mxGeometry x="570" y="290" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yTS60BYQn6R3xWKC6g6s-17" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kYtq8hqSCg1Zeu9AD9op-1" target="yTS60BYQn6R3xWKC6g6s-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
